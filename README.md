@@ -6,7 +6,7 @@ The package requires PHP 7.0+ and follows the FIG standard PSR-4 to ensure a hig
 
 Have a read through the Installation Guide.
 
-[![Build Status](https://travis-ci.org/myGedung/Support.svg?branch=master)](https://travis-ci.org/mygedung/support)
+[![Build Status](https://travis-ci.org/myGedung/Support.svg?branch=master)](https://travis-ci.org/myGedung/Support)
 
 # INSTALLATION
 The best and easiest way to install the Support package is with Composer.
